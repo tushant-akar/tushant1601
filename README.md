@@ -1,5 +1,4 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=tushant-akar)
-[![wakatime](https://wakatime.com/badge/user/0c0aa721-8ca9-4a7e-8aa4-1b89fa243eed.svg)](https://wakatime.com/@0c0aa721-8ca9-4a7e-8aa4-1b89fa243eed) 
 
 
 <h1 align="center">Hi 👋, I'm <a href="https://tushant-akar.github.io/tushant1601/"> Tushant Akar </a> </h1>
@@ -8,9 +7,6 @@
 
 
 <h2> About Me </h2>
-
-<a href="https://app.daily.dev/tirth5828"><img src="https://github.com/tirth5828/tirth5828/blob/main/devcard.png" align="right" width="300" alt="Tirth Joshi's Dev Card"/></a>
-
 
 - 🌱 I’m currently learning **Android Development**
 
